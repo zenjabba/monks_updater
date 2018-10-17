@@ -1,0 +1,3 @@
+python_decouple==3.0
+requests==2.12.4
+psutil==5.2.2
